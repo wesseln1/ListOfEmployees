@@ -1,0 +1,11 @@
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\bin\Debug\netcoreapp3.0\ListOfEmployees.exe
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\bin\Debug\netcoreapp3.0\ListOfEmployees.deps.json
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\bin\Debug\netcoreapp3.0\ListOfEmployees.runtimeconfig.json
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\bin\Debug\netcoreapp3.0\ListOfEmployees.runtimeconfig.dev.json
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\bin\Debug\netcoreapp3.0\ListOfEmployees.dll
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\bin\Debug\netcoreapp3.0\ListOfEmployees.pdb
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\obj\Debug\netcoreapp3.0\ListOfEmployees.csprojAssemblyReference.cache
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\obj\Debug\netcoreapp3.0\ListOfEmployees.AssemblyInfoInputs.cache
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\obj\Debug\netcoreapp3.0\ListOfEmployees.AssemblyInfo.cs
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\obj\Debug\netcoreapp3.0\ListOfEmployees.dll
+C:\Users\OWNER\workspace\CSharpPrac\ListOfEmployees\obj\Debug\netcoreapp3.0\ListOfEmployees.pdb
